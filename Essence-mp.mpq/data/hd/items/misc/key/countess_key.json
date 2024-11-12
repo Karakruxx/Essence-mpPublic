@@ -1,0 +1,96 @@
+{
+    "dependencies": {
+        "animations": [],
+        "json": [{
+                "path": "data/hd/items/dropped_items/dropped_items_helms_flip_ne.json"
+            }
+        ],
+        "models": [{
+                "path": "data/hd/items/misc/key/mephisto_key/mephisto_key.model"
+            }
+        ],
+        "objecteffects": [],
+        "other": [],
+        "particles": [],
+        "physics": [],
+        "skeletons": [{
+                "path": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
+            }
+        ],
+        "textures": [{
+                "path": "data/hd/items/misc/key/mephisto_key/misc_mephisto_key_ALB.texture"
+            }, {
+                "path": "data/hd/items/misc/key/mephisto_key/misc_mephisto_key_NRM.texture"
+            }, {
+                "path": "data/hd/items/misc/key/mephisto_key/misc_mephisto_key_ORM.texture"
+            }
+        ],
+        "variantdata": []
+    },
+    "entities": [{
+            "components": [{
+                    "animations": [],
+                    "doNotInheritRotation": false,
+                    "doNotUseHDHeight": false,
+                    "hideAllMeshWhenInOpenedMode": false,
+                    "name": "component_root",
+                    "onCreateEventName": "",
+                    "rotationOverride": {
+                        "w": 0.9238795,
+                        "x": 0.0,
+                        "y": 0.3826834,
+                        "z": 0.0
+                    },
+                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_helms_flip_ne.json",
+                    "type": "UnitRootComponent"
+                }, {
+                    "filename": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton",
+                    "name": "component_skeleton",
+                    "type": "SkeletonDefinitionComponent"
+                }, {
+                    "inheritOnlyPosition": false,
+                    "name": "entity_root_TransformDefinition",
+                    "orientation": {
+                        "w": 0.5150381,
+                        "x": 0.0,
+                        "y": 0.8571673,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 0.2,
+                        "y": 0.0,
+                        "z": 0.4
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "type": "TransformDefinitionComponent"
+                }
+            ],
+            "id": 2337633402,
+            "name": "entity_root",
+            "type": "Entity"
+        }, {
+            "components": [{
+                    "filename": "data/hd/items/misc/key/mephisto_key/mephisto_key.model",
+                    "floorModel": false,
+                    "ghostShadows": false,
+                    "lightMask": 19,
+                    "name": "component_model_mephisto_key",
+                    "shadowMask": 3,
+                    "terrainBlendEnableYUpBlend": false,
+                    "terrainBlendMode": 1,
+                    "type": "ModelDefinitionComponent",
+                    "visibleLayers": 1
+                }
+            ],
+            "id": 4288480363,
+            "name": "entity_model",
+            "type": "Entity"
+        }
+    ],
+    "name": "mephisto_key",
+    "type": "UnitDefinition"
+}

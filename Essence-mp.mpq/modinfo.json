@@ -1,0 +1,33 @@
+{
+    "name": "Essence-mp",
+    "savepath": "Essence-mp/"
+
+/*
+--My Mod Details--
+Mod Download: https://github.com/Karakruxx/EssencePublic/archive/refs/heads/main.zip
+Mod Config Download: https://drive.google.com/uc?export=download&id=1VNa2MOoCpEQcECPn3pBQVYDzYngvA30r
+Mod Version: 2.1
+News 1 Title: "Latest Patch Notes (2.1)" 
+News 1 Message: "Fixed a display error that prevented Physical Damage Reduction Percent from being displayed. Removed the first two levels of the Maggot Lair. Halloween Ghosts now only spawn in optional areas with no quests."
+News 2 Title: "Thanks for playing!"
+News 2 Message: "Are you staying hydrated?"
+
+--General Options--
+Map Layouts: Enabled
+UI Themes: Disabled
+Customizations: Enabled
+Vault Access: Enabled
+
+--Additional Options--
+Item Icons: Enabled
+Runeword Sorting: Disabled
+HUD Display: Disabled
+Monster Stats Display: Enabled
+
+--Author Links--
+Discord: https://discord.gg/dghUDxQwUR
+Wiki: https://en.wikipedia.org/wiki/Main_Page
+Patreon: https://www.patreon.com/bonesyd2r
+*/
+
+}
