@@ -1167,22 +1167,22 @@ Halloghost 3			3					500	cnd	100	Ec1	1																				0
 Halloghost Terror			1					500	cnd	100	Ec1	1																				0
 Halloghost Terror 2			2					500	cnd	100	Ec1	1																				0
 Halloghost Terror 3			3					500	cnd	100	Ec1	1																				0
-Act 5 (H) H2H A Abyss			1					0	Act 5 (H) H2H A	24	Roaring Nightmare	1																				0
-Act 5 (H) Champ A Abyss			2					0	Act 5 (H) Champ A	9	Roaring Nightmare	1																				0
-Act 5 (H) Unique A Abyss			3					0	Act 5 (H) Unique A	4	Roaring Nightmare	1																				0
-Act 5 (H) Cast A Abyss			1					0	Act 5 (H) Cast A	24	Roaring Nightmare	1																				0
-Act 3 (H) H2H B Abyss			1					0	Act 3 (H) H2H B	24	Roaring Nightmare	1																				0
-Act 3 (H) Champ B Abyss			2					0	Act 3 (H) Champ B	9	Roaring Nightmare	1																				0
-Act 3 (H) Unique B Abyss			3					0	Act 3 (H) Unique B	4	Roaring Nightmare	1																				0
-Act 5 (H) Unique A Abyss			3					0	Act 5 (H) Unique A	4	Roaring Nightmare	1																				0
-Swarm 2 (H) Abyss			1					0	Swarm 2 (H)	24	Roaring Nightmare	1																				0
-Act 4 (H) H2H A Abyss			1					0	Act 4 (H) H2H A	24	Roaring Nightmare	1																				0
-Act 4 (H) Champ A Abyss			2					0	Act 4 (H) Champ A	9	Roaring Nightmare	1																				0
-Act 4 (H) Unique A Abyss			3					0	Act 4 (H) Unique A	4	Roaring Nightmare	1																				0
-Act 5 (H) H2H C Abyss			1					0	Act 5 (H) H2H C	24	Roaring Nightmare	1																				0
-Act 5 (H) Champ C Abyss			2					0	Act 5 (H) Champ C	9	Roaring Nightmare	1																				0
-Act 5 (H) Unique C Abyss			3					0	Act 5 (H) Unique C	4	Roaring Nightmare	1																				0
-Act 4 (H) H2H B Abyss			1					0	Act 4 (H) H2H B	24	Roaring Nightmare	1																				0
-Act 4 (H) Champ B Abyss			2					0	Act 4 (H) Champ B	9	Roaring Nightmare	1																				0
-Act 4 (H) Unique B Abyss			3					0	Act 4 (H) Unique B	4	Roaring Nightmare	1																				0
-Act 5 (H) Cast C Abyss			1					0	Act 5 (H) Cast C	24	Roaring Nightmare	1																				0
+Act 5 (H) H2H A Abyss			1					0	Act 5 (H) H2H A	12	Roaring Nightmare	1																				0
+Act 5 (H) Champ A Abyss			2					0	Act 5 (H) Champ A	4	Roaring Nightmare	1																				0
+Act 5 (H) Unique A Abyss			3					0	Act 5 (H) Unique A	2	Roaring Nightmare	1																				0
+Act 5 (H) Cast A Abyss			1					0	Act 5 (H) Cast A	12	Roaring Nightmare	1																				0
+Act 3 (H) H2H B Abyss			1					0	Act 3 (H) H2H B	12	Roaring Nightmare	1																				0
+Act 3 (H) Champ B Abyss			2					0	Act 3 (H) Champ B	4	Roaring Nightmare	1																				0
+Act 3 (H) Unique B Abyss			3					0	Act 3 (H) Unique B	2	Roaring Nightmare	1																				0
+Act 5 (H) Unique A Abyss			3					0	Act 5 (H) Unique A	2	Roaring Nightmare	1																				0
+Swarm 2 (H) Abyss			1					0	Swarm 2 (H)	12	Roaring Nightmare	1																				0
+Act 4 (H) H2H A Abyss			1					0	Act 4 (H) H2H A	12	Roaring Nightmare	1																				0
+Act 4 (H) Champ A Abyss			2					0	Act 4 (H) Champ A	4	Roaring Nightmare	1																				0
+Act 4 (H) Unique A Abyss			3					0	Act 4 (H) Unique A	2	Roaring Nightmare	1																				0
+Act 5 (H) H2H C Abyss			1					0	Act 5 (H) H2H C	12	Roaring Nightmare	1																				0
+Act 5 (H) Champ C Abyss			2					0	Act 5 (H) Champ C	4	Roaring Nightmare	1																				0
+Act 5 (H) Unique C Abyss			3					0	Act 5 (H) Unique C	2	Roaring Nightmare	1																				0
+Act 4 (H) H2H B Abyss			1					0	Act 4 (H) H2H B	12	Roaring Nightmare	1																				0
+Act 4 (H) Champ B Abyss			2					0	Act 4 (H) Champ B	4	Roaring Nightmare	1																				0
+Act 4 (H) Unique B Abyss			3					0	Act 4 (H) Unique B	2	Roaring Nightmare	1																				0
+Act 5 (H) Cast C Abyss			1					0	Act 5 (H) Cast C	12	Roaring Nightmare	1																				0
