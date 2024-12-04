@@ -9,13 +9,13 @@
             "type": "GrowableImageWidget", "name": "UniqueMonsterBackground",
             "rect": { "x": -500, "y": -26 },
             "fields": {
-                "filename": "../../../D2RLAN/Monster Stats/MonHPBar_UniSmall"
+                "filename": "../../../D2RLAN/Monster Stats/MonHPBar_UniFullPer"
               }
           },
           {
             "type": "GrowableImageWidget", "name": "NormalMonsterBackground",
             "fields": {
-                "filename": "../../../D2RLAN/Monster Stats/MonHPBar_NormSmall"
+                "filename": "../../../D2RLAN/Monster Stats/MonHPBar_NormFullPer"
               }
           },
           {
@@ -50,7 +50,7 @@
           {
             "type": "TextBoxWidget", "name": "Unique",
             "fields": {
-                "rect": { "x": 500, "y": 65 },
+                "rect": { "x": 500, "y": 115 },
                 "style": {
                     "pointSize": "$MediumFontSize",
                     "alignment": { "h": "center" },
@@ -61,7 +61,7 @@
           {
             "type": "TextBoxWidget", "name": "Additional",
             "fields": {
-                "rect": { "x": 500, "y": 100 },
+                "rect": { "x": 500, "y": 150 },
                 "style": {
                     "pointSize": "$MediumFontSize",
                     "alignment": { "h": "center" },

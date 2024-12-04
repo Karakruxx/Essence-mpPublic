@@ -906,5 +906,6 @@
   { "Ec1": { "asset": "quest/essence" } },
   { "cnd": { "asset": "quest/candy" } },
   { "Cnd": { "asset": "quest/bucket" } },
-  { "CND": { "asset": "quest/candy_token" } }
+  { "CND": { "asset": "quest/candy_token" } },
+  { "Rvl": { "asset": "quest/full_rejuv_yellow" } }
 ]

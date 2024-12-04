@@ -6,11 +6,11 @@
 --My Mod Details--
 Mod Download: https://github.com/Karakruxx/Essence-mpPublic/archive/refs/heads/main.zip
 Mod Config Download: https://drive.google.com/uc?export=download&id=1LbYbhNI_Bzz3z3hi0KZWkvy5iCctXdGc
-Mod Version: 2.2
-News 1 Title: "Latest Patch Notes (2.2)" 
-News 1 Message: "Fixed a display error that prevented Physical Damage Reduction Percent from being displayed. Removed the first two levels of the Maggot Lair. Halloween Ghosts now only spawn in optional areas with no quests."
+Mod Version: 2.3
+News 1 Title: "Latest Patch Notes (2.3)" 
+News 1 Message: "Added a storage item for Full Rejuvenation Potions, 'Time-locked Elixir'. Candy can no longer be purchased from vendors. Halloween Ghosts have retired. You might be able to still find them lingering in a place that does not exist though..."
 News 2 Title: "Message of the Week"
-News 2 Message: "My kids say they want a cat for Christmas... Normally I do a turkey but hey, if it'll make them happy..."
+News 2 Message: "What do you call a teacher who never farts in public? A private tutor."
 
 --General Options--
 Map Layouts: Enabled
@@ -19,7 +19,7 @@ Customizations: Enabled
 Vault Access: Enabled
 
 --Additional Options--
-Item Icons: Enabled
+Item Icons: Disabled
 Runeword Sorting: Disabled
 HUD Display: Disabled
 Monster Stats Display: Enabled
