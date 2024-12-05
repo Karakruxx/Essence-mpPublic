@@ -907,5 +907,6 @@
   { "cnd": { "asset": "quest/candy" } },
   { "Cnd": { "asset": "quest/bucket" } },
   { "CND": { "asset": "quest/candy_token" } },
-  { "Rvl": { "asset": "quest/full_rejuv_yellow" } }
+  { "Rvl": { "asset": "quest/full_rejuv_yellow" } },
+  { "jeW": { "asset": "gem/perfect_diamond" } }
 ]

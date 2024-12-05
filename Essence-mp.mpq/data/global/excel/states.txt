@@ -193,31 +193,3 @@ markbear	190	4																																					1				bloodlust_state									
 markwolf	191	5										1																											1				impregnated																												0
 seventombs	192	3			1						1																																bloodlust_state	whirlwind	bladeshield	aura_fanatic		teleport	teleport															1	355						0
 charmslots	193																																																	hp_hidden																					0
-Weapon_White	194																																																						weap	bwht															0
-Weapon_Black	195																																																						weap	blac															0
-Weapon_Red	196																																																						weap	cred															0
-Weapon_Green	197																																																						weap	cgrn															0
-Weapon_Blue	198																																																						weap	cblu															0
-Weapon_Yellow	199																																																						weap	lyel															0
-Weapon_Purple	200																																																						weap	lpur															0
-Torso_White	201																																																						tors	bwht															0
-Torso_Black	202																																																						tors	blac															0
-Torso_Red	203																																																						tors	cred															0
-Torso_Green	204																																																						tors	cgrn															0
-Torso_Blue	205																																																						tors	cblu															0
-Torso_Yellow	206																																																						tors	lyel															0
-Torso_Purple	207																																																						tors	lpur															0
-Helm_White	208																																																						helm	bwht															0
-Helm_Black	209																																																						helm	blac															0
-Helm_Red	210																																																						helm	cred															0
-Helm_Green	211																																																						helm	cgrn															0
-Helm_Blue	212																																																						helm	cblu															0
-Helm_Yellow	213																																																						helm	lyel															0
-Helm_Purple	214																																																						helm	lpur															0
-Shield_White	215																																																						shld	bwht															0
-Shield_Black	216																																																						shld	blac															0
-Shield_Red	217																																																						shld	cred															0
-Shield_Green	218																																																						shld	cgrn															0
-Shield_Blue	219																																																						shld	cblu															0
-Shield_Yellow	220																																																						shld	lyel															0
-Shield_Purple	221																																																						shld	lpur															0

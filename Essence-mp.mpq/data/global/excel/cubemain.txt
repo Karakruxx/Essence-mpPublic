@@ -168,7 +168,7 @@ Weapon Socket	1			100					2	weap,nos	lzh						useitem				sock			1	1													
 Amulet Socket	1			100					2	amul,nos	lzh						useitem				sock			1	1																																																																															0
 Ring Socket	1			100					2	ring,nos	lzh						useitem				sock			1	1																																																																															0
 3 magic jewels -> 1 rare jewel	1			100					3	jew,mag,qty=3							jew,rar		100																																																																																					0
-3 rare jewels -> 1 unique jewel	1			100					3	jew,rar,qty=3							jew,uni		100																																																																																					0
+3 rare jewels -> 1 unique jewel	1			100					3	jewl,rar,qty=3							jew,uni		100																																																																																					0
 2 unique jewels -> 1 unique jewel	1			100					2	jew,uni,qty=2							jew,uni		100																																																																																					0
 Set Abyssal to Rare 1	1			100	18	368	1		2	!01	$rn						xh9,rar				abyssal-display			-1	-1																																																																															0
 Set Abyssal to Rare 2	1			100	18	368	1		2	!02	$rn						ucl,rar				abyssal-display			-1	-1																																																																															0

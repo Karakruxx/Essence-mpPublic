@@ -35817,5 +35817,22 @@
     "ptBR": "\n%s\n%s\nMarca do Lobo:\nAtaques de Lobisomem concedem Marca por %s",
     "ruRU": "\n%s\n%s\nЗнак волка:\nатаки в облике волка накладывают метку на %s",
     "zhCN": "\n%s\n%s\n恶狼印记:\n狼人攻击时会获得印记，持续 %s"
+  },
+  {
+    "id": 30011,
+    "Key": "skillnameImmunity",
+    "enUS": "Super Dodge",
+    "zhTW": "閃躲",
+    "deDE": "Ausweichen",
+    "esES": "Esquivar",
+    "frFR": "Esquive",
+    "itIT": "Schivata",
+    "koKR": "흘리기",
+    "plPL": "Unik",
+    "esMX": "Esquivar",
+    "jaJP": "回避",
+    "ptBR": "Esquiva",
+    "ruRU": "Уклонение",
+    "zhCN": "闪避"
   }
 ]

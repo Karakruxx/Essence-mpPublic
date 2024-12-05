@@ -674,7 +674,7 @@ Abyssal Armor			1		400	500	600	1000	armo90	75	weap90	75	$01	20	$02	10											
 M'avina Terror Pieces			1					0	M'avina's True Sight Terror	1	M'avina's Embrace Terror	1	M'avina's Icy Clutch Terror	1	M'avina's Tenet Terror	1	M'avina's Caster Terror	1														0
 Natalya Terror Pieces			1					0	Natalya's Totem Terror	1	Natalya's Mark Terror	1	Natalya's Shadow Terror	1	Natalya's Soul Terror	1																0
 Trang-Oul Terror Pieces			1					0	Trang-Oul's Guise Terror	1	Trang-Oul's Scales Terror	1	Trang-Oul's Wing Terror	1	Trang-Oul's Claws Terror	1	Trang-Oul's Girth Terror	1														0
-Immortal King Terror Pieces			1					0	Immortal King's Will Terror	1	IK Armor	1	Immortal King's Detail Terror	1	Immortal King's Forge Terror	1	Immortal King's Pillar Terror	1	IK Weapon	1												0
+Immortal King Terror Pieces			1					0	Immortal King's Will Terror	1	Ik Armor	1	Immortal King's Detail Terror	1	Immortal King's Forge Terror	1	Immortal King's Pillar Terror	1	IK Weapon	1												0
 Griswold Terror Pieces			1					0	Griswold's Valor Terror	1	Griswold's Heart Terror	1	Griswolds's Redemption Terror	1	Griswold's Honor Terror	1																0
 Tal Rasha Terror Pieces			1					0	Tal Belt	1	Tal Rasha's Adjudication Terror	1	Tal Rasha's Lidless Eye Terror	1	Tal Rasha's Howling Wind Terror	1	Tal Helm	1														0
 Aldur Terror Pieces			1					0	Aldur's Stony Gaze Terror	1	Aldur Plate	1	Aldur Weapon	1	Aldur's Advance Terror	1																0
@@ -684,17 +684,17 @@ Terror Sets 2			1					0	Disciple Pieces	1	Bulkathos Pieces	1																				
 Terror Sets			1					0	M'avina Terror Pieces	1	Natalya Terror Pieces	1	Trang-Oul Terror Pieces	1	Immortal King Terror Pieces	1	Griswold Terror Pieces	1	Tal Rasha Terror Pieces	1	Aldur Terror Pieces	1	Terror Sets 2	1								0
 Roaring Nightmare			1					0	$rn	9	Terror Sets	6	Abyssal Armor	90																		0
 Sunder Charms			1					20000	Cold Rupture	30	Flame Rift	30	Crack of the Heavens	30	Rotting Fissure	30	Bone Break	30	Black Cleft	30												0
-Andariel			7	983	983	983	1024	0	gld,mul=1280	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3	jew	1														0
-Andariel (N)			7	983	983	983	1024	0	gld,mul=1536	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3	jew	1														0
-Andariel (H)			7	983	983	983	1024	0	gld,mul=2048	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	tes	1	jew	1												0
-Andarielq			-6	1024	995	1024	1024	0	Act 2 Equip A	3	Act 2 Good	2	jew	1																		0
-Andarielq Desecrated A	20	13	7	1024	995	1024	1024	0	Act 2 Equip A	19	Act 2 Good	2	jew	1																		0
-Andarielq Desecrated B	20	32	7	1024	995	1024	1024	0	Act 4 Equip B	19	Act 4 Good	2	jew	1																		0
-Andarielq Desecrated C	20	48	7	1024	995	1024	1024	0	Act 3 (N) Equip A	19	Act 3 (N) Good	3	jew	1																		0
-Andarielq (N)			7	1024	995	1024	1024	0	Act 2 (N) Equip A	19	Act 2 (N) Good	3	jew	1																		0
-Andarielq (N) Desecrated A	20	43	7	1024	995	1024	1024	0	Act 2 (N) Equip A	19	Act 2 (N) Good	3	jew	1																		0
-Andarielq (N) Desecrated B	20	57	7	1024	995	1024	1024	0	Act 4 (N) Equip B	19	Act 4 (N) Good	3	jew	1																		0
-Andarielq (N) Desecrated C	20	73	7	1024	995	1024	1024	0	Act 3 (H) Equip A	19	Act 3 (H) Good	3	jew	1																		0
+Andariel			7	983	983	983	1024	0	gld,mul=1280	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3	jew	3														0
+Andariel (N)			7	983	983	983	1024	0	gld,mul=1536	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3	jew	3														0
+Andariel (H)			7	983	983	983	1024	0	gld,mul=2048	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	tes	1	jew	10												0
+Andarielq			-6	1024	995	1024	1024	0	Act 2 Equip A	3	Act 2 Good	2	jew	3																		0
+Andarielq Desecrated A	20	13	7	1024	995	1024	1024	0	Act 2 Equip A	19	Act 2 Good	2	jew	3																		0
+Andarielq Desecrated B	20	32	7	1024	995	1024	1024	0	Act 4 Equip B	19	Act 4 Good	2	jew	3																		0
+Andarielq Desecrated C	20	48	7	1024	995	1024	1024	0	Act 3 (N) Equip A	19	Act 3 (N) Good	3	jew	3																		0
+Andarielq (N)			7	1024	995	1024	1024	0	Act 2 (N) Equip A	19	Act 2 (N) Good	3	jew	3																		0
+Andarielq (N) Desecrated A	20	43	7	1024	995	1024	1024	0	Act 2 (N) Equip A	19	Act 2 (N) Good	3	jew	3																		0
+Andarielq (N) Desecrated B	20	57	7	1024	995	1024	1024	0	Act 4 (N) Equip B	19	Act 4 (N) Good	3	jew	3																		0
+Andarielq (N) Desecrated C	20	73	7	1024	995	1024	1024	0	Act 3 (H) Equip A	19	Act 3 (H) Good	3	jew	3																		0
 Andarielq (H)			7	983	983	983	1024	0	Act 2 (H) Equip A	19	Act 2 (H) Good	3	tes	1	jew	10																0
 Andarielq Item (H) Desecrated A			7	1024	995	1024	1024	0	Act 3 (H) Equip B	19	Act 3 (H) Good	3	tes	10	jew	10																0
 Andarielq Item (H) Desecrated B			7	1024	995	1024	1024	0	Act 3 (H) Equip C	19	Act 3 (H) Good	3	tes	10	jew	10																0
@@ -720,12 +720,12 @@ Duriel (N) - Base			7	983	983	983	1024	0	gld,mul=1536	11	Act 3 (N) Equip A	19	Ac
 Duriel (N) - Base Desecrated A			7	983	983	983	1024	0	gld,mul=1536	11	Act 4 (N) Equip A	19	Act 4 (N) Junk	15	Act 4 (N) Good	3																0
 Duriel (N) - Base Desecrated B			7	983	983	983	1024	0	gld,mul=1536	11	Act 5 (N) Equip B	19	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
 Duriel (N) - Base Desecrated C			7	983	983	983	1024	0	gld,mul=1536	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																0
-Duriel (H) - Base			7	983	983	983	1024	0	gld,mul=2048	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	tes	2	jew	20												0
+Duriel (H) - Base			7	983	983	983	1024	0	gld,mul=2048	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	tes	2	jew	10												0
 Duriel (H) - Base Desecrated A			7	983	983	983	1024	0	gld,mul=2048	11	Act 4 (H) Equip B	19	Act 4 (H) Junk	15	Act 4 (H) Good	3	tes	20	jew	20												0
 Duriel (H) - Base Desecrated B			7	983	983	983	1024	0	gld,mul=2048	11	Act 5 (H) Equip A	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	tes	20	jew	20												0
 Duriel (H) - Base Desecrated C			7	983	983	983	1024	0	gld,mul=2048	11	Act 5 (H) Equip B	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	tes	20	jew	20												0
 Duriel (H) - Base Desecrated D			7	983	983	983	1024	0	gld,mul=2048	11	Act 5 (H) Equip C	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	tes	20	jew	20												0
-Durielq - Base			-6	1024	993	1024	1024	0	Act 3 Equip A	3	Act 3 Good	2	jew	1																		0
+Durielq - Base			-6	1024	993	1024	1024	0	Act 3 Equip A	3	Act 3 Good	2	jew	3		1																0
 Durielq (N) - Base			-6	1024	993	1024	1024	0	Act 3 (N) Equip A	2	Act 3 (N) Good	2	jew	1	qf2	1																0
 Durielq (H) - Base			-6	1024	993	1024	1024	0	Act 3 (H) Equip A	1	Act 3 (H) Good	1	tes	1	jew	1	qf2	1														0
 Radament			5	900	900	900	1024	0	gld,mul=1280	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																0

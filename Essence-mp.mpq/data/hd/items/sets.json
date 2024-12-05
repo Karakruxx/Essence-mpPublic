@@ -643,5 +643,20 @@
   "normal": "sword/the_patriarch",
   "uber": "sword/the_patriarch",
   "ultra": "sword/the_patriarch"
+} },
+  { "aldur_weapon": {
+  "normal": "mace/bloodrise",
+  "uber": "mace/bloodrise",
+  "ultra": "mace/bloodrise"
+} },
+{ "griswolds_heart_terror": {
+  "normal": "armor/corpsemourn",
+  "uber": "armor/corpsemourn",
+  "ultra": "armor/corpsemourn"
+} },
+{ "ik_armor": {
+  "normal": "armor/victors_silk",
+  "uber": "armor/victors_silk",
+  "ultra": "armor/victors_silk"
 } }
 ]
