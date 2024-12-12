@@ -66,3 +66,4 @@ Drake's Abyssal	100	1	1			90				2	315	mana		21	30	abyssal-display		1	10					blac
 Dragon's Abyssal	100	1	1			90				1	315	mana		31	40	abyssal-display		1	10					blac	armo	weap											0	0
 Wyrm's Abyssal	100	1	1			90				1	315	mana		41	60	abyssal-display		1	10					blac	armo	weap											0	0
 Ethereal	100	1				0				4	317	ethereal	1	1	1										armo	weap	ques										0	0
+Gifted	100	1				0				1	318	gift-display		1	130										elix	ques											0	0

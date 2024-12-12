@@ -155,7 +155,7 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 Normal Set Armor to Exceptional Set Armor	1			100					4	armo,bas,set	r07	r13	gpw				useitem,mod,exc				levelreq			5	5																					gpw																																																										0
 Exceptional Set Weap to Elite Set Weap	1			100					4	weap,exc,set	r17	r21	gpg				useitem,mod,eli				levelreq			7	7																					gpg																																																										0
 Exceptional Set Armor to Elite Set Armor	1			100					4	armo,exc,set	r18	r20	gpw				useitem,mod,eli				levelreq			7	7																					gpw																																																										0
-test hpot				100					1	hpot							hpot	99		99																										Rvl	99		99																										rvl	99		99																										0
+test hpot				100					1	hpot							hpot	99		99																										GFT				keyholder-quant			100	100																					rvl	99		99																										0
 test mpot				100					1	mpot							mpot																																																																																							0
 test key				100					1	key							key																																																																																							0
 test id scroll				100					1	isc							isc																																																																																							0
@@ -891,3 +891,142 @@ Rejuv Holder Deposit 8	1			100					9	Rvl	rvl,qty=8						useitem				keyholder-qua
 Rejuv Holder Deposit 9	1			100					10	Rvl	rvl,qty=9						useitem				keyholder-quant			9	9																																																																															0
 Rejuv Holder Deposit 10	1			100					11	Rvl	rvl,qty=10						useitem				keyholder-quant			10	10																																																																															0
 Rejuv Holder Deposit 11	1			100					12	Rvl	rvl,qty=11						useitem				keyholder-quant			11	11																																																																															0
+Gift Holder Create	1			100					2	Gft	key						GFT																																																																																							0
+Gift Holder Withdraw	1			100	17	369	0		1	GFT							useitem				keyholder-quant			-1	-1																					Gft																																																										0
+Gift Holder Deposit 1	1			100					2	GFT	Gft						useitem				keyholder-quant			1	1																																																																															0
+Gift Holder Deposit 2	1			100					3	GFT	Gft,qty=2						useitem				keyholder-quant			2	2																																																																															0
+Gift Holder Deposit 3	1			100					4	GFT	Gft,qty=3						useitem				keyholder-quant			3	3																																																																															0
+Gift Holder Deposit 4	1			100					5	GFT	Gft,qty=4						useitem				keyholder-quant			4	4																																																																															0
+Gift Holder Deposit 5	1			100					6	GFT	Gft,qty=5						useitem				keyholder-quant			5	5																																																																															0
+Gift Holder Deposit 6	1			100					7	GFT	Gft,qty=6						useitem				keyholder-quant			6	6																																																																															0
+Gift Off Season ----TOGGLE SWITCH----	1								1	Gft							Lump of Coal	1		1									1	1																																																																										0
+Gift 1	1			100	18	370	1		1	Gft							Harlequin Crest Gift	99		99	sock		1	1	1																																																																															0
+Gift 2	1			100	18	370	2		1	Gft							Veil of Steel Gift	99		99	sock		1	1	1																																																																															0
+Gift 3	1			100	18	370	3		1	Gft							The Gladiator's Bane Gift	99		99	sock		1	1	1																																																																															0
+Gift 4	1			100	18	370	4		1	Gft							Arkaine's Valor Gift	99		99	sock		1	1	1																																																																															0
+Gift 5	1			100	18	370	5		1	Gft							Blackoak Shield Gift	99		99	sock		1	1	1																																																																															0
+Gift 6	1			100	18	370	6		1	Gft							Stormshield Gift	99		99	sock		1	1	1																																																																															0
+Gift 7	1			100	18	370	7		1	Gft							Hellslayer Gift	99		99	sock		1	1	1																																																																															0
+Gift 8	1			100	18	370	8		1	Gft							Messerschmidt's Reaver Gift	99		99	sock		1	1	1																																																																															0
+Gift 9	1			100	18	370	9		1	Gft							Baranar's Star Gift	99		99	sock		1	1	1																																																																															0
+Gift 10	1			100	18	370	10		1	Gft							Schaefer's Hammer Gift	99		99	sock		1	1	1																																																																															0
+Gift 11	1			100	18	370	11		1	Gft							The Cranium Basher Gift	99		99	sock		1	1	1																																																																															0
+Gift 12	1			100	18	370	12		1	Gft							Lightsabre Gift	99		99	sock		1	1	1																																																																															0
+Gift 13	1			100	18	370	13		1	Gft							Doombringer Gift	99		99	sock		1	1	1																																																																															0
+Gift 14	1			100	18	370	14		1	Gft							The Grandfather Gift	99		99	sock		1	1	1																																																																															0
+Gift 15	1			100	18	370	15		1	Gft							Wizardspike Gift	99		99	sock		1	1	1																																																																															0
+Gift 16	1			100	18	370	16		1	Gft							Constricting Ring Gift	99		99	sock		1	1	1																																																																															0
+Gift 17	1			100	18	370	17		1	Gft							Stormspire Gift	99		99	sock		1	1	1																																																																															0
+Gift 18	1			100	18	370	18		1	Gft							Eaglehorn Gift	99		99	sock		1	1	1																																																																															0
+Gift 19	1			100	18	370	19		1	Gft							Windforce Gift	99		99	sock		1	1	1																																																																															0
+Gift 20	1			100	18	370	20		1	Gft							Bul Katho's Wedding Band Gift	99		99	sock		1	1	1																																																																															0
+Gift 21	1			100	18	370	21		1	Gft							The Cat's Eye Gift	99		99	sock		1	1	1																																																																															0
+Gift 22	1			100	18	370	22		1	Gft							The Rising Sun Gift	99		99	sock		1	1	1																																																																															0
+Gift 23	1			100	18	370	23		1	Gft							Crescent Moon Gift	99		99	sock		1	1	1																																																																															0
+Gift 24	1			100	18	370	24		1	Gft							Mara's Kaleidoscope Gift	99		99	sock		1	1	1																																																																															0
+Gift 25	1			100	18	370	25		1	Gft							Atma's Scarab Gift	99		99	sock		1	1	1																																																																															0
+Gift 26	1			100	18	370	26		1	Gft							Dwarf Star Gift	99		99	sock		1	1	1																																																																															0
+Gift 27	1			100	18	370	27		1	Gft							Raven Frost Gift	99		99	sock		1	1	1																																																																															0
+Gift 28	1			100	18	370	28		1	Gft							Highlord's Wrath Gift	99		99	sock		1	1	1																																																																															0
+Gift 29	1			100	18	370	29		1	Gft							Saracen's Chance Gift	99		99	sock		1	1	1																																																																															0
+Gift 30	1			100	18	370	30		1	Gft							Arreat's Face Gift	99		99	sock		1	1	1																																																																															0
+Gift 31	1			100	18	370	31		1	Gft							Homunculus Gift	99		99	sock		1	1	1																																																																															0
+Gift 32	1			100	18	370	32		1	Gft							Titan's Revenge Gift	99		99	sock		1	1	1																																																																															0
+Gift 33	1			100	18	370	33		1	Gft							Lycander's Aim Gift	99		99	sock		1	1	1																																																																															0
+Gift 34	1			100	18	370	34		1	Gft							Lycander's Flank Gift	99		99	sock		1	1	1																																																																															0
+Gift 35	1			100	18	370	35		1	Gft							The Oculus Gift	99		99	sock		1	1	1																																																																															0
+Gift 36	1			100	18	370	36		1	Gft							Herald of Zakarum Gift	99		99	sock		1	1	1																																																																															0
+Gift 37	1			100	18	370	37		1	Gft							Cutthroat1 Gift	99		99	sock		1	1	1																																																																															0
+Gift 38	1			100	18	370	38		1	Gft							Jalal's Mane Gift	99		99	sock		1	1	1																																																																															0
+Gift 39	1			100	18	370	39		1	Gft							The Scalper Gift	99		99	sock		1	1	1																																																																															0
+Gift 40	1			100	18	370	40		1	Gft							Bloodmoon Gift	99		99	sock		1	1	1																																																																															0
+Gift 41	1			100	18	370	41		1	Gft							Djinnslayer Gift	99		99	sock		1	1	1																																																																															0
+Gift 42	1			100	18	370	42		1	Gft							Deathbit Gift	99		99	sock		1	1	1																																																																															0
+Gift 43	1			100	18	370	43		1	Gft							Warshrike Gift	99		99	sock		1	1	1																																																																															0
+Gift 44	1			100	18	370	44		1	Gft							Gutsiphon Gift	99		99	sock		1	1	1																																																																															0
+Gift 45	1			100	18	370	45		1	Gft							Razoredge Gift	99		99	sock		1	1	1																																																																															0
+Gift 46	1			100	18	370	46		1	Gft							Demonlimb Gift	99		99	sock		1	1	1																																																																															0
+Gift 47	1			100	18	370	47		1	Gft							Steelshade Gift	99		99	sock		1	1	1																																																																															0
+Gift 48	1			100	18	370	48		1	Gft							Tomb Reaver Gift	99		99	sock		1	1	1																																																																															0
+Gift 49	1			100	18	370	49		1	Gft							Deaths's Web Gift	99		99	sock		1	1	1																																																																															0
+Gift 50	1			100	18	370	50		1	Gft							Nature's Peace Gift	99		99	sock		1	1	1																																																																															0
+Gift 51	1			100	18	370	51		1	Gft							Azurewrath Gift	99		99	sock		1	1	1																																																																															0
+Gift 52	1			100	18	370	52		1	Gft							Seraph's Hymn Gift	99		99	sock		1	1	1																																																																															0
+Gift 53	1			100	18	370	53		1	Gft							Fleshripper Gift	99		99	sock		1	1	1																																																																															0
+Gift 54	1			100	18	370	54		1	Gft							Horizon's Tornado Gift	99		99	sock		1	1	1																																																																															0
+Gift 55	1			100	18	370	55		1	Gft							Stone Crusher Gift	99		99	sock		1	1	1																																																																															0
+Gift 56	1			100	18	370	56		1	Gft							Jadetalon Gift	99		99	sock		1	1	1																																																																															0
+Gift 57	1			100	18	370	57		1	Gft							Shadowdancer Gift	99		99	sock		1	1	1																																																																															0
+Gift 58	1			100	18	370	58		1	Gft							Cerebus Gift	99		99	sock		1	1	1																																																																															0
+Gift 59	1			100	18	370	59		1	Gft							Tyrael's Might Gift	99		99	sock		1	1	1																																																																															0
+Gift 60	1			100	18	370	60		1	Gft							Souldrain Gift	99		99	sock		1	1	1																																																																															0
+Gift 61	1			100	18	370	61		1	Gft							Runemaster Gift	99		99	sock		1	1	1																																																																															0
+Gift 62	1			100	18	370	62		1	Gft							Deathcleaver Gift	99		99	sock		1	1	1																																																																															0
+Gift 63	1			100	18	370	63		1	Gft							Executioner's Justice Gift	99		99	sock		1	1	1																																																																															0
+Gift 64	1			100	18	370	64		1	Gft							Stoneraven Gift	99		99	sock		1	1	1																																																																															0
+Gift 65	1			100	18	370	65		1	Gft							Leviathan Gift	99		99	sock		1	1	1																																																																															0
+Gift 66	1			100	18	370	66		1	Gft							Wisp Gift	99		99	sock		1	1	1																																																																															0
+Gift 67	1			100	18	370	67		1	Gft							Gargoyle's Bite Gift	99		99	sock		1	1	1																																																																															0
+Gift 68	1			100	18	370	68		1	Gft							Lacerator Gift	99		99	sock		1	1	1																																																																															0
+Gift 69	1			100	18	370	69		1	Gft							Mang Song's Lesson Gift	99		99	sock		1	1	1																																																																															0
+Gift 70	1			100	18	370	70		1	Gft							Viperfork Gift	99		99	sock		1	1	1																																																																															0
+Gift 71	1			100	18	370	71		1	Gft							Ethereal Edge Gift	99		99	sock		1	1	1																																																																															0
+Gift 72	1			100	18	370	72		1	Gft							Demonhorn's Edge Gift	99		99	sock		1	1	1																																																																															0
+Gift 73	1			100	18	370	73		1	Gft							The Reaper's Toll Gift	99		99	sock		1	1	1																																																																															0
+Gift 74	1			100	18	370	74		1	Gft							Spiritkeeper Gift	99		99	sock		1	1	1																																																																															0
+Gift 75	1			100	18	370	75		1	Gft							Hellrack Gift	99		99	sock		1	1	1																																																																															0
+Gift 76	1			100	18	370	76		1	Gft							Alma Negra Gift	99		99	sock		1	1	1																																																																															0
+Gift 77	1			100	18	370	77		1	Gft							Darkforge Spawn Gift	99		99	sock		1	1	1																																																																															0
+Gift 78	1			100	18	370	78		1	Gft							Widowmaker Gift	99		99	sock		1	1	1																																																																															0
+Gift 79	1			100	18	370	79		1	Gft							Bloodraven's Charge Gift	99		99	sock		1	1	1																																																																															0
+Gift 80	1			100	18	370	80		1	Gft							Ghostflame Gift	99		99	sock		1	1	1																																																																															0
+Gift 81	1			100	18	370	81		1	Gft							Shadowkiller Gift	99		99	sock		1	1	1																																																																															0
+Gift 82	1			100	18	370	82		1	Gft							Gimmershred Gift	99		99	sock		1	1	1																																																																															0
+Gift 83	1			100	18	370	83		1	Gft							Griffon's Eye Gift	99		99	sock		1	1	1																																																																															0
+Gift 84	1			100	18	370	84		1	Gft							Windhammer Gift	99		99	sock		1	1	1																																																																															0
+Gift 85	1			100	18	370	85		1	Gft							Thunderstroke Gift	99		99	sock		1	1	1																																																																															0
+Gift 86	1			100	18	370	86		1	Gft							Demon's Arch Gift	99		99	sock		1	1	1																																																																															0
+Gift 87	1			100	18	370	87		1	Gft							Boneflame Gift	99		99	sock		1	1	1																																																																															0
+Gift 88	1			100	18	370	88		1	Gft							Steelpillar Gift	99		99	sock		1	1	1																																																																															0
+Gift 89	1			100	18	370	89		1	Gft							Nightwing's Veil Gift	99		99	sock		1	1	1																																																																															0
+Gift 90	1			100	18	370	90		1	Gft							Crown of Ages Gift	99		99	sock		1	1	1																																																																															0
+Gift 91	1			100	18	370	91		1	Gft							Andariel's Visage Gift	99		99	sock		1	1	1																																																																															0
+Gift 92	1			100	18	370	92		1	Gft							Dragonscale Gift	99		99	sock		1	1	1																																																																															0
+Gift 93	1			100	18	370	93		1	Gft							Steel Carapice Gift	99		99	sock		1	1	1																																																																															0
+Gift 94	1			100	18	370	94		1	Gft							Medusa's Gaze Gift	99		99	sock		1	1	1																																																																															0
+Gift 95	1			100	18	370	95		1	Gft							Ravenlore Gift	99		99	sock		1	1	1																																																																															0
+Gift 96	1			100	18	370	96		1	Gft							Boneshade Gift	99		99	sock		1	1	1																																																																															0
+Gift 97	1			100	18	370	97		1	Gft							Flamebellow Gift	99		99	sock		1	1	1																																																																															0
+Gift 98	1			100	18	370	98		1	Gft							Fathom Gift	99		99	sock		1	1	1																																																																															0
+Gift 99	1			100	18	370	99		1	Gft							Wolfhowl Gift	99		99	sock		1	1	1																																																																															0
+Gift 100	1			100	18	370	100		1	Gft							Spirit Ward Gift	99		99	sock		1	1	1																																																																															0
+Gift 101	1			100	18	370	101		1	Gft							Kira's Guardian Gift	99		99	sock		1	1	1																																																																															0
+Gift 102	1			100	18	370	102		1	Gft							Ormus' Robes Gift	99		99	sock		1	1	1																																																																															0
+Gift 103	1			100	18	370	103		1	Gft							Stormlash Gift	99		99	sock		1	1	1																																																																															0
+Gift 104	1			100	18	370	104		1	Gft							Halaberd's Reign Gift	99		99	sock		1	1	1																																																																															0
+Gift 105	1			100	18	370	105		1	Gft							Spike Thorn Gift	99		99	sock		1	1	1																																																																															0
+Gift 106	1			100	18	370	106		1	Gft							Dracul's Grasp Gift	99		99	sock		1	1	1																																																																															0
+Gift 107	1			100	18	370	107		1	Gft							Frostwind Gift	99		99	sock		1	1	1																																																																															0
+Gift 108	1			100	18	370	108		1	Gft							Templar's Might Gift	99		99	sock		1	1	1																																																																															0
+Gift 109	1			100	18	370	109		1	Gft							Eschuta's temper Gift	99		99	sock		1	1	1																																																																															0
+Gift 110	1			100	18	370	110		1	Gft							Firelizard's Talons Gift	99		99	sock		1	1	1																																																																															0
+Gift 111	1			100	18	370	111		1	Gft							Sandstorm Trek Gift	99		99	sock		1	1	1																																																																															0
+Gift 112	1			100	18	370	112		1	Gft							Marrowwalk Gift	99		99	sock		1	1	1																																																																															0
+Gift 113	1			100	18	370	113		1	Gft							Heaven's Light Gift	99		99	sock		1	1	1																																																																															0
+Gift 114	1			100	18	370	114		1	Gft							Arachnid Mesh Gift	99		99	sock		1	1	1																																																																															0
+Gift 115	1			100	18	370	115		1	Gft							Nosferatu's Coil Gift	99		99	sock		1	1	1																																																																															0
+Gift 116	1			100	18	370	116		1	Gft							Metalgrid Gift	99		99	sock		1	1	1																																																																															0
+Gift 117	1			100	18	370	117		1	Gft							Verdugo's Hearty Cord Gift	99		99	sock		1	1	1																																																																															0
+Gift 118	1			100	18	370	118		1	Gft							Carrion Wind Gift	99		99	sock		1	1	1																																																																															0
+Gift 119	1			100	18	370	119		1	Gft							Giantskull Gift	99		99	sock		1	1	1																																																																															0
+Gift 120	1			100	18	370	120		1	Gft							Ironward Gift	99		99	sock		1	1	1																																																																															0
+Gift 121	1			100	18	370	121		1	Gft							Arioc's Needle Gift	99		99	sock		1	1	1																																																																															0
+Gift 122	1			100	18	370	122		1	Gft							Cranebeak Gift	99		99	sock		1	1	1																																																																															0
+Gift 123	1			100	18	370	123		1	Gft							Nord's Tenderizer Gift	99		99	sock		1	1	1																																																																															0
+Gift 124	1			100	18	370	124		1	Gft							Earthshifter Gift	99		99	sock		1	1	1																																																																															0
+Gift 125	1			100	18	370	125		1	Gft							Wraithflight Gift	99		99	sock		1	1	1																																																																															0
+Gift 126	1			100	18	370	126		1	Gft							Bonehew Gift	99		99	sock		1	1	1																																																																															0
+Gift 127	1			100	18	370	127		1	Gft							Ondal's Wisdom Gift	99		99	sock		1	1	1																																																																															0
+Gift 128	1			100	18	370	128		1	Gft							The Reedeemer Gift	99		99	sock		1	1	1																																																																															0
+Gift 129	1			100	18	370	129		1	Gft							Headhunter's Glory Gift	99		99	sock		1	1	1																																																																															0
+Gift 130	1			100	18	370	130		1	Gft							Steelrend Gift	99		99	sock		1	1	1																																																																															0

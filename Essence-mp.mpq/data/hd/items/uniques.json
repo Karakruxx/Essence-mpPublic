@@ -1889,34 +1889,169 @@
   "uber": "torch/torch",
   "ultra": "torch/torch"
 } },
-  { "cold_rupture": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "blackoak_shield_gift": {
+  "normal": "shield/umbral_disk",
+  "uber": "shield/umbral_disk",
+  "ultra": "shield/umbral_disk"
 } },
-  { "flame_rift": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "stormshield_gift": {
+  "normal": "shield/steelclash",
+  "uber": "shield/steelclash",
+  "ultra": "shield/steelclash"
 } },
-  { "crack_of_the_heavens": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "hellslayer_gift": {
+  "normal": "axe/the_chieftan",
+  "uber": "axe/the_chieftan",
+  "ultra": "axe/the_chieftan"
 } },
-  { "rotting_fissure": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "messerschmidts_reaver_gift": {
+  "normal": "axe/brainhew",
+  "uber": "axe/brainhew",
+  "ultra": "axe/brainhew"
 } },
-  { "bone_break": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "baranars_star_gift": {
+  "normal": "mace/bloodrise",
+  "uber": "mace/bloodrise",
+  "ultra": "mace/bloodrise"
 } },
-  { "black_cleft": {
-  "normal": "charm/charm_large",
-  "uber": "charm/charm_large",
-  "ultra": "charm/charm_large"
+  { "lightsabre_gift": {
+  "normal": "sword/lightsabre",
+  "uber": "sword/lightsabre",
+  "ultra": "sword/lightsabre"
+} },
+  { "doombringer_gift": {
+  "normal": "sword/blacktongue",
+  "uber": "sword/blacktongue",
+  "ultra": "sword/blacktongue"
+} },
+  { "the_grandfather_gift": {
+  "normal": "sword/the_patriarch",
+  "uber": "sword/the_patriarch",
+  "ultra": "sword/the_patriarch"
+} },
+  { "bloodmoon_gift": {
+  "normal": "sword/hexfire",
+  "uber": "sword/hexfire",
+  "ultra": "sword/hexfire"
+} },
+  { "djinnslayer_gift": {
+  "normal": "sword/blood_crescent",
+  "uber": "sword/blood_crescent",
+  "ultra": "sword/blood_crescent"
+} },
+  { "warshrike_gift": {
+  "normal": "knife/warshrike",
+  "uber": "knife/warshrike",
+  "ultra": "knife/warshrike"
+} },
+  { "gutsiphon_gift": {
+  "normal": "bow/doomspittle",
+  "uber": "bow/doomspittle",
+  "ultra": "bow/doomspittle"
+} },
+  { "razoredge_gift": {
+  "normal": "axe/the_gnasher",
+  "uber": "axe/the_gnasher",
+  "ultra": "axe/the_gnasher"
+} },
+  { "demonlimb_gift": {
+  "normal": "club/stoutnail",
+  "uber": "club/stoutnail",
+  "ultra": "club/stoutnail"
+} },
+  { "steelshade_gift": {
+  "normal": "helmet/coif_of_glory",
+  "uber": "helmet/coif_of_glory",
+  "ultra": "helmet/coif_of_glory"
+} },
+  { "azurewrath_gift": {
+  "normal": "sword/crystal_sword",
+  "uber": "sword/crystal_sword",
+  "ultra": "sword/crystal_sword"
+} },
+  { "seraphs_hymn_gift": {
+  "normal": "amulet/amulet2",
+  "uber": "amulet/amulet2",
+  "ultra": "amulet/amulet2"
+} },
+  { "fleshripper_gift": {
+  "normal": "knife/the_jade_tan_do",
+  "uber": "knife/the_jade_tan_do",
+  "ultra": "knife/the_jade_tan_do"
+} },
+  { "tyraels_might_gift": {
+  "normal": "armor/victors_silk",
+  "uber": "armor/victors_silk",
+  "ultra": "armor/victors_silk"
+} },
+  { "mang_songs_lesson_gift": {
+  "normal": "staff/skullcollector",
+  "uber": "staff/skullcollector",
+  "ultra": "staff/skullcollector"
+} },
+  { "hellrack_gift": {
+  "normal": "bow/hellcast",
+  "uber": "bow/hellcast",
+  "ultra": "bow/hellcast"
+} },
+  { "widowmaker_gift": {
+  "normal": "bow/hellclap",
+  "uber": "bow/hellclap",
+  "ultra": "bow/hellclap"
+} },
+  { "bloodravens_charge_gift": {
+  "normal": "bow/hellclap",
+  "uber": "bow/hellclap",
+  "ultra": "bow/hellclap"
+} },
+  { "shadowkiller_gift": {
+  "normal": "h2h/shadowkiller",
+  "uber": "h2h/shadowkiller",
+  "ultra": "h2h/shadowkiller"
+} },
+  { "flamebellow_gift": {
+  "normal": "sword/kinemils_awl",
+  "uber": "sword/kinemils_awl",
+  "ultra": "sword/kinemils_awl"
+} },
+  { "spirit_ward_gift": {
+  "normal": "shield/the_ward",
+  "uber": "shield/the_ward",
+  "ultra": "shield/the_ward"
+} },
+  { "spike_thorn_gift": {
+  "normal": "shield/swordback_hold",
+  "uber": "shield/swordback_hold",
+  "ultra": "shield/swordback_hold"
+} },
+  { "frostwind_gift": {
+  "normal": "sword/hellplague",
+  "uber": "sword/hellplague",
+  "ultra": "sword/hellplague"
+} },
+  { "templars_might_gift": {
+  "normal": "armor/victors_silk",
+  "uber": "armor/victors_silk",
+  "ultra": "armor/victors_silk"
+} },
+  { "cranebeak_gift": {
+  "normal": "axe/mindrend",
+  "uber": "axe/mindrend",
+  "ultra": "axe/mindrend"
+} },
+  { "nords_tenderizer_gift": {
+  "normal": "club/felloak",
+  "uber": "club/felloak",
+  "ultra": "club/felloak"
+} },
+  { "ondals_wisdom_gift": {
+  "normal": "staff/lazarus_spire",
+  "uber": "staff/lazarus_spire",
+  "ultra": "staff/lazarus_spire"
+} },
+  { "headhunters_glory_gift": {
+  "normal": "shield/wall_of_the_eyeless",
+  "uber": "shield/wall_of_the_eyeless",
+  "ultra": "shield/wall_of_the_eyeless"
 } }
 ]
