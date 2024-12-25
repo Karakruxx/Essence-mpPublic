@@ -899,7 +899,7 @@ Gift Holder Deposit 3	1			100					4	GFT	Gft,qty=3						useitem				keyholder-quan
 Gift Holder Deposit 4	1			100					5	GFT	Gft,qty=4						useitem				keyholder-quant			4	4																																																																															0
 Gift Holder Deposit 5	1			100					6	GFT	Gft,qty=5						useitem				keyholder-quant			5	5																																																																															0
 Gift Holder Deposit 6	1			100					7	GFT	Gft,qty=6						useitem				keyholder-quant			6	6																																																																															0
-Gift Off Season ----TOGGLE SWITCH----	1								1	Gft							Lump of Coal	1		1									1	1																																																																										0
+Gift Off Season ----TOGGLE SWITCH----									1	Gft							Lump of Coal	1		1									1	1																																																																										0
 Gift 1	1			100	18	370	1		1	Gft							Harlequin Crest Gift	99		99	sock		1	1	1																																																																															0
 Gift 2	1			100	18	370	2		1	Gft							Veil of Steel Gift	99		99	sock		1	1	1																																																																															0
 Gift 3	1			100	18	370	3		1	Gft							The Gladiator's Bane Gift	99		99	sock		1	1	1																																																																															0
