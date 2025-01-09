@@ -284,3 +284,4 @@ abyssal-display	1	1	item_abyssal																																0
 keyholder-quant	1	1	keychain_quant																																0
 torch-inv	1	1	unused208																																0
 gift-display	1	1	item_gift																																0
+miniskill-rand	1	12	item_nonclassskill																											+# to [Skill] ([Class] only)	Skill Level	Min Skill ID	Max Skill ID		0

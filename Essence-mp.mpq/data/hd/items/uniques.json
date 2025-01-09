@@ -2053,5 +2053,10 @@
   "normal": "shield/wall_of_the_eyeless",
   "uber": "shield/wall_of_the_eyeless",
   "ultra": "shield/wall_of_the_eyeless"
+} },
+  { "miniature_1": {
+  "normal": "quest/mephisto_soul_stone",
+  "uber": "quest/mephisto_soul_stone",
+  "ultra": "quest/mephisto_soul_stone"
 } }
 ]

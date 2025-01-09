@@ -910,5 +910,6 @@
   { "Rvl": { "asset": "quest/full_rejuv_yellow" } },
   { "jeW": { "asset": "gem/perfect_diamond" } },
   { "Gft": { "asset": "quest/gift" } },
-  { "GFT": { "asset": "quest/festive_tree" } }
+  { "GFT": { "asset": "quest/festive_tree" } },
+  { "cmm": { "asset": "charm/charm_small" } }
 ]

@@ -155,7 +155,7 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 Normal Set Armor to Exceptional Set Armor	1			100					4	armo,bas,set	r07	r13	gpw				useitem,mod,exc				levelreq			5	5																					gpw																																																										0
 Exceptional Set Weap to Elite Set Weap	1			100					4	weap,exc,set	r17	r21	gpg				useitem,mod,eli				levelreq			7	7																					gpg																																																										0
 Exceptional Set Armor to Elite Set Armor	1			100					4	armo,exc,set	r18	r20	gpw				useitem,mod,eli				levelreq			7	7																					gpw																																																										0
-test hpot				100					1	hpot							hpot	99		99																										GFT				keyholder-quant			100	100																					rvl	99		99																										0
+test hpot	1			100					1	hpot							hpot	99		99																										Miniature1																																																										0
 test mpot				100					1	mpot							mpot																																																																																							0
 test key				100					1	key							key																																																																																							0
 test id scroll				100					1	isc							isc																																																																																							0
@@ -899,7 +899,7 @@ Gift Holder Deposit 3	1			100					4	GFT	Gft,qty=3						useitem				keyholder-quan
 Gift Holder Deposit 4	1			100					5	GFT	Gft,qty=4						useitem				keyholder-quant			4	4																																																																															0
 Gift Holder Deposit 5	1			100					6	GFT	Gft,qty=5						useitem				keyholder-quant			5	5																																																																															0
 Gift Holder Deposit 6	1			100					7	GFT	Gft,qty=6						useitem				keyholder-quant			6	6																																																																															0
-Gift Off Season ----TOGGLE SWITCH----									1	Gft							Lump of Coal	1		1									1	1																																																																										0
+Gift Off Season ----TOGGLE SWITCH----	1								1	Gft							Lump of Coal	1		1									1	1																																																																										0
 Gift 1	1			100	18	370	1		1	Gft							Harlequin Crest Gift	99		99	sock		1	1	1																																																																															0
 Gift 2	1			100	18	370	2		1	Gft							Veil of Steel Gift	99		99	sock		1	1	1																																																																															0
 Gift 3	1			100	18	370	3		1	Gft							The Gladiator's Bane Gift	99		99	sock		1	1	1																																																																															0

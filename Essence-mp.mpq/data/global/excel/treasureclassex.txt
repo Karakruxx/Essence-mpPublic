@@ -36,7 +36,7 @@ Runes 9			1					0	r17	3	r18	2	Runes 8	60																		0
 Runes 10			1					0	r19	3	r20	2	Runes 9	120																		0
 Runes 11			1					0	r21	3	r22	2	Runes 10	240																		0
 Runes 12			1					0	r23	3	r24	2	Runes 11	355																		0
-Runes 13			1					0	r25	3	r26	2	Runes 12	506	Gft	1																0
+Runes 13			1					0	r25	3	r26	2	Runes 12	506																		0
 Runes 14			1					0	r27	3	r28	2	Runes 13	723																		0
 Runes 15			1					0	r29	3	r30	2	Runes 14	980																		0
 Runes 16			1					0	r31	3	r32	2	Runes 15	1319																		0
@@ -1186,3 +1186,6 @@ Act 4 (H) H2H B Abyss			1					0	Act 4 (H) H2H B	12	Roaring Nightmare	1										
 Act 4 (H) Champ B Abyss			2					0	Act 4 (H) Champ B	4	Roaring Nightmare	1																				0
 Act 4 (H) Unique B Abyss			3					0	Act 4 (H) Unique B	2	Roaring Nightmare	1																				0
 Act 5 (H) Cast C Abyss			1					0	Act 5 (H) Cast C	12	Roaring Nightmare	1																				0
+GlobalDrop			1					6000	Miniature1	1																						0
+GlobalDrop(N)			1					4000	Miniature1	1																						0
+GlobalDrop(H)			1					2000	Miniature1	1																						0
