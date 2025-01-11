@@ -877,7 +877,7 @@ Candy Holder Deposit 11	1			100					12	Cnd	cnd,qty=11						useitem				keyholder-
 Candy Holder 100	1			100	18	369	100		2	Cnd	$rn						Cnd				keyholder-quant			-1	-1																					CND																																																										0
 Candy to Annihilus	1			100					2	Annihilus	CND						useitem				oskill		258	5	5	skill		258	2	2	mag%			15	15	ac			50	50	ac%			25	25																																																											0
 Zod into Jewel	1			100					2	jew	r33						useitem				indestruct		1	1	1																																																																															0
-Jah Ith Ber into Annihilus	1			100					4	Annihilus	r06	r30	r31				useitem				oskill		54	1	1																																																																															0
+Enigma into Annihilus	1			100	18	357	0		4	Annihilus	r06	r30	r31				useitem				oskill		54	1	1	mag%/lvl		8			extra-mag			1	1																																																																					0
 Rejuv Holder Create	1			100					2	rvl	key						Rvl																																																																																							0
 Rejuv Holder Withdraw	1			100	17	369	0		1	Rvl							useitem				keyholder-quant			-1	-1																					rvl																																																										0
 Rejuv Holder Deposit 1	1			100					2	Rvl	rvl						useitem				keyholder-quant			1	1																																																																															0
@@ -1030,3 +1030,26 @@ Gift 127	1			100	18	370	127		1	Gft							Ondal's Wisdom Gift	99		99	sock		1	1	1	
 Gift 128	1			100	18	370	128		1	Gft							The Reedeemer Gift	99		99	sock		1	1	1																																																																															0
 Gift 129	1			100	18	370	129		1	Gft							Headhunter's Glory Gift	99		99	sock		1	1	1																																																																															0
 Gift 130	1			100	18	370	130		1	Gft							Steelrend Gift	99		99	sock		1	1	1																																																																															0
+CTA to Anni	1			100	18	357	0		6	Annihilus	r11	r08	r23	r24	r27		useitem				aura-display		471	1	6	oskill		146	1	4	extra-mag			1	1																																																																					0
+Infinity to Anni	1			100	18	357	0		5	Annihilus	r30,qty=2	r23	r24				useitem				aura-display		123	12	12	pierce-ltng			45	55	extra-mag			1	1																																																																					0
+Insight to Anni	1			100	18	357	0		5	Annihilus	r08	r03	r07	r12			useitem				aura-display		120	12	17	oskill		9	1	6	extra-mag			1	1																																																																					0
+Beast to Anni	1			100	18	357	0		6	Annihilus	r30	r03	r22	r23	r17		useitem				aura-display		122	9	9	oskill		228	3	3	extra-mag			1	1																																																																					0
+Bramble to Anni	1			100	18	357	0		5	Annihilus	r08	r27	r29	r05			useitem				aura-display		103	15	21	extra-pois			25	50	extra-mag			1	1																																																																					0
+Doom to Anni	1			100	18	357	0		6	Annihilus	r15	r27	r22	r28	r32		useitem				aura-display		114	12	12	pierce-cold			40	60	extra-mag			1	1																																																																					0
+HoJ to Anni	1			100	18	357	0		5	Annihilus	r29	r32	r11	r28			useitem				aura-display		102	16	16	pierce-fire			20	20	extra-mag			1	1																																																																					0
+Dream to Anni	1			100	18	357	0		4	Annihilus	r16	r31	r21				useitem				aura-display		118	15	15	gethit-skill		81	10	15	extra-mag			1	1																																																																					0
+Dragon to Anni	1			100	18	357	0		4	Annihilus	r29	r28	r12				useitem				aura-display		102	14	14	str/lvl		3			extra-mag			1	1																																																																					0
+Edge to Anni	1			100	18	357	0		4	Annihilus	r03	r07	r11				useitem				aura-display		103	15	15	cheap			15	15	extra-mag			1	1																																																																					0
+Exile to Anni	1			100	18	357	0		5	Annihilus	r26	r27	r24	r14			useitem				aura-display		104	13	16	hit-skill		82	15	5	extra-mag			1	1																																																																					0
+Faith to Anni	1			100	18	357	0		5	Annihilus	r27	r31	r20	r02			useitem				aura-display		122	12	15	reanimate		1	10	10	extra-mag			1	1																																																																					0
+FF to Anni	1			100	18	357	0		4	Annihilus	r04	r21	r26				useitem				aura-display		100	4	8	fireskill			3	3	extra-mag			1	1																																																																					0
+Harmony to Anni	1			100	18	357	0		5	Annihilus	r03	r06	r12	r18			useitem				aura-display		115	10	10	oskill		32	2	6	extra-mag			1	1																																																																					0
+Ice to Anni	1			100	18	357	0		5	Annihilus	r11	r13	r31	r28			useitem				aura-display		114	18	18	hit-skill		44	25	22	extra-mag			1	1																																																																					0
+LW to Anni	1			100	18	357	0		7	Annihilus	r31,qty=3	r23	r29	r30			useitem				aura-display		98	17	17	gethit-skill		267	6	11	extra-mag			1	1																																																																					0
+Lawbringer to Anni	1			100	18	357	0		4	Annihilus	r11	r20	r18				useitem				aura-display		119	16	18	hit-skill		87	20	15	extra-mag			1	1																																																																					0
+Mist to Anni	1			100	18	357	0		6	Annihilus	r32	r13	r25	r10	r06		useitem				aura-display		113	8	12	pierce			100	100	extra-mag			1	1																																																																					0
+Phoenix to Anni	1			100	18	357	0		5	Annihilus	r26,qty=2	r28	r31				useitem				aura-display		124	10	15	hit-skill		225	40	22	extra-mag			1	1																																																																					0
+Plague to Anni	1			100	18	357	0		4	Annihilus	r32	r13	r22				useitem				aura-display		109	13	17	gethit-skill		91	20	12	extra-mag			1	1																																																																					0
+Pride to Anni	1			100	18	357	0		5	Annihilus	r32	r29	r16	r28			useitem				aura-display		113	16	20	gethit-skill		51	25	17	extra-mag			1	1																																																																					0
+Hustle to Anni	1			100	18	357	0		4	Annihilus	r13	r18	r02				useitem				aura-display		122	1	1	hit-skill		258	5	1	extra-mag			1	1																																																																					0
+Cure to Anni	1			100	18	357	0		4	Annihilus	r13	r16	r07				useitem				aura-display		109	1	1	res-pois-len			50	50	extra-mag			1	1																																																																					0

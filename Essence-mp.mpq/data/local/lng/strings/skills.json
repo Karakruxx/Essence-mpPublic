@@ -37449,5 +37449,22 @@
     "ptBR": "Esquiva",
     "ruRU": "Уклонение",
     "zhCN": "闪避"
+  },
+  {
+    "id": 30107,
+    "Key": "skillnameCTA",
+    "enUS": "Call to Arms",
+    "zhTW": "閃躲",
+    "deDE": "Ausweichen",
+    "esES": "Esquivar",
+    "frFR": "Esquive",
+    "itIT": "Schivata",
+    "koKR": "흘리기",
+    "plPL": "Unik",
+    "esMX": "Esquivar",
+    "jaJP": "回避",
+    "ptBR": "Esquiva",
+    "ruRU": "Уклонение",
+    "zhCN": "闪避"
   }
 ]
